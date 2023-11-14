@@ -1,0 +1,8 @@
+jqassistant:
+  scan:
+    include:
+      files:
+        - src/main
+  analyze:
+    groups:
+      - junit5:Default
